@@ -1,0 +1,12 @@
+27/11/2016 14:04:13 devpinoyLogger Loading properties file
+27/11/2016 14:04:13 devpinoyLogger Properties file loaded successfully
+27/11/2016 14:04:13 devpinoyLogger Loading Excel file
+27/11/2016 14:04:13 devpinoyLogger Excel file loaded successfully
+27/11/2016 14:04:29 devpinoyLogger Entering text in text box
+27/11/2016 14:04:29 devpinoyLogger Text entered successfully
+27/11/2016 14:04:29 devpinoyLogger Entering text in text box
+27/11/2016 14:04:30 devpinoyLogger Text entered successfully
+27/11/2016 14:04:30 devpinoyLogger Clicking Button
+27/11/2016 14:04:30 devpinoyLogger Button clicked successfully
+27/11/2016 14:04:30 devpinoyLogger java.lang.AssertionError: expected [xyz] but found [abc]
+27/11/2016 14:04:30 devpinoyLogger two : execution skipped as the runmode is set to no

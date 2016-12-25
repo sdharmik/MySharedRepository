@@ -1,0 +1,12 @@
+<suite name="mySuite">
+
+<test name="myTest">
+<classes>
+
+<class name="com.core.mySuite.One" />
+<class name="com.core.mySuite.Two" />
+</classes>
+
+</test>
+
+</suite>
